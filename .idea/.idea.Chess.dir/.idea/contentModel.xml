@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_.19.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
+      <e p="_Imports.razor" t="Include" />
+      <e p="App.razor" t="Include" />
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Chess.csproj" t="IncludeRecursive" />
+      <e p="Data" t="Include">
+        <e p="Point.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="Chess.AssemblyInfo.cs" t="Include" />
+            <e p="Chess.RazorAssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Pages" t="Include">
+        <e p="_Host.cshtml" t="Include" />
+        <e p="Index.razor" t="Include" />
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="README.md" t="Include" />
+      <e p="Shared" t="Include">
+        <e p="MainLayout.razor" t="Include" />
+        <e p="NavMenu.razor" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="wwwroot" t="Include">
+        <e p="bg.jpg" t="Include" />
+        <e p="css" t="Include">
+          <e p="bootstrap" t="Include">
+            <e p="bootstrap.min.css" t="Include" />
+            <e p="bootstrap.min.css.map" t="Include" />
+          </e>
+          <e p="open-iconic" t="Include">
+            <e p="font" t="Include">
+              <e p="css" t="Include">
+                <e p="open-iconic-bootstrap.min.css" t="Include" />
+              </e>
+              <e p="fonts" t="Include">
+                <e p="open-iconic.eot" t="Include" />
+                <e p="open-iconic.otf" t="Include" />
+                <e p="open-iconic.svg" t="Include" />
+                <e p="open-iconic.ttf" t="Include" />
+                <e p="open-iconic.woff" t="Include" />
+              </e>
+            </e>
+            <e p="FONT-LICENSE" t="Include" />
+            <e p="ICON-LICENSE" t="Include" />
+            <e p="README.md" t="Include" />
+          </e>
+          <e p="site.css" t="Include" />
+        </e>
+        <e p="favicon.ico" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
